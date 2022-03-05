@@ -16,6 +16,8 @@ html{
     background-color: #faf0ed;
     font-family: 'Raleway', sans-serif;
 }
+li{ 
+    list-style:none;
 a{
     text-decoration: none;
     color: #faf0ed;
@@ -492,6 +494,7 @@ width: 80%;
 }
 #footer .footer_list .list_item li{
     margin: 10px 0;
+    list-style:none;
     
 }
 
