@@ -99,7 +99,7 @@ a{
     left: 0;
     /* background-color: wheat; */
     padding: 0 20px;
-    overfollow:hidden;
+   
    
    
    
@@ -124,7 +124,7 @@ a{
 margin-left: 400px; 
 margin-bottom: 50px;  
 margin-right: 30px;
-    overflow:hidden;
+    
 }
 #header .logo{
   position: absolute;
@@ -144,7 +144,7 @@ top: 7px;
 
 
 #header .header_container .nav__list__wrapper a{
-    padding: 40px;
+    padding: 20px;
     color: rgba(255,255,255,1);
     font-size: 1rem;
     font-family: 'Poppins';
